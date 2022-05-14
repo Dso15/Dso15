@@ -1,10 +1,13 @@
 ### Hi there, I'm Dso15! 👋
 
-<!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Python (Flask) and Docker.
-- 👯 I’m looking to collaborate with programmers.
-- 🥅 2022 Goals: Contribute to Open Source Projects.
+---
 
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) ([Flask](https://en.wikipedia.org/wiki/Flask_%28web_framework%29)) and [Docker](https://en.wikipedia.org/wiki/Docker_(software)).
+- 👯 I’m looking to **collaborate with programmers**.
+- 🥅 **2022 Goals**: **`Contribute to Open Source Projects`**.
+
+***
 <br />
 
 ### Languages and Tools:
